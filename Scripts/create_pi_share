@@ -1,0 +1,2 @@
+sshfs pi@drivebot:// ~/pi_share -ovolname= Mount
+
